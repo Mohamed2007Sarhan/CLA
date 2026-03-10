@@ -5,6 +5,10 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Author: Mohamed Sarhan](https://img.shields.io/badge/Author-Mohamed_Sarhan-success.svg)](https://github.com/Mohamed2007Sarhan)
 
+<p align="center">
+  <img src="desc_img.png" alt="Clean Layer Architecture Concept" width="800">
+</p>
+
 > *"Stop treating AI models as opaque black boxes. It’s time to put an end to Spaghetti Code in Artificial Intelligence."*
 
 ---
